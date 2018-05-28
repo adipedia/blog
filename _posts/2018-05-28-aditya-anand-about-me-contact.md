@@ -13,7 +13,7 @@ We once believed that the earth is flat. Our beliefs are our truths. Our truths 
 
 A belief that ‘truth’ is neither universal nor absolute is powerful. It promotes humility and curiosity.
 
-We once believed that the earth is the centre of the universe. Imagine if we stopped questioning what is ‘true’. It is this extraordinary quest for truth, this curiosity, that pushes the individual and the society forward.
+We once believed that the earth is the center of the universe. Imagine if we stopped questioning what is ‘true’. It is this extraordinary quest for truth, this curiosity, that pushes the individual and the society forward.
 
 This blog documents my journey. To reflect and to connect the dots. To seek the truth.
 
@@ -28,8 +28,8 @@ I’m a mechanical engineer by degree. I've been involved in [all kinds of jobs]
 
 I've been very fortunate to have built a career around my passions. My fondest memories involve a computer. Being a maker and making things is part of an ethic I enjoy.
 
-Apart from software, technology and design -- I also identify as an entrepreneur. On good days it brings extreme satisfaction and joy. On bad days nothing but misery and hairloss. Never ever a dull day though. It's hardly surprising that I also like rollercoasters, adventure and triathlons.
+Apart from software, technology and design -- I also identify as an entrepreneur. On good days it brings extreme satisfaction and joy. On bad days nothing but misery and hair-loss. Never ever a dull day though. It's hardly surprising that I also like roller-coasters, adventure and triathlons.
 
-My father, who studied liberal arts, has been a strong influence. I like reading things across formats and genres. I follow social affairs and politics. Sometiems, I try to be more than a slacktivist. My politics tilts to the left of center. With many exceptions.
+My father, who studied liberal arts, has been a strong influence. I like reading things across formats and genres. I follow social affairs and politics. Sometimes, I try to be more than a slacktivist. My politics tilts to the left of center. With many exceptions.
 
 I enjoy conversations and meeting new people. Serendipity and karma are funny and beautiful things. Don't be shy. Drop me an email. I'll thank you for it.
