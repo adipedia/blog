@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>{{ site.name }} | {{ page.title }}</title>
+  <title>{{ site.name }} | {{ page.seotitle }}</title>
   <meta name="description" content="{{ page.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -10,6 +10,7 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:description" content="{{ page.description }}">
   <meta property="og:site_name" content="{{ site.name }}">
+  <meta name="author" content="Aditya Anand">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:url" content="{{ page.url | absolute_url }}">
@@ -29,6 +30,7 @@
     <meta name="twitter:image" content="{{ site.url }}{% asset og-image.jpg @path %}">
   {% endif %}
 
+
   <link href="{{ 'feed.xml' | absolute_url }}" type="application/rss+xml" rel="alternate" title="{{ site.name }} Last 10 blog posts" />
 
   {% if site.local_fonts %}
@@ -44,4 +46,8 @@
     <link rel="apple-touch-icon" href="{% asset apple-touch-icon-dark.png @path %}">
     {% asset dark.css %}
   {% endif %}
+  <!-- <link href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,500,500i,700,700i,800,800i,900,900i|Asar|Cardo:400,400i,700|Cormorant+Upright:300,400,500,600,700|EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i|Eczar:400,500,600,700,800|Gentium+Book+Basic:400,400i,700,700i|Gilda+Display|Glegoo:400,700|Halant:300,400,500,600,700|Inknut+Antiqua:300,400,500,600,700,800,900|Karma:300,400,500,600,700|Kurale|Laila:300,400,500,600,700|Lora:400,400i,700,700i|Lustria|Marko+One|Martel:200,300,400,600,700,800,900|Rozha+One|Sahitya:400,700|Song+Myung|Sura:400,700&amp;subset=devanagari" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:600|Halant:400,600|Lato:400,700" rel="stylesheet">
+
+
 </head>

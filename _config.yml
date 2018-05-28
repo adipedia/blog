@@ -1,28 +1,28 @@
 # Mandatory settings
 
 blog_theme: light # Or use dark
-name: Chalk
+name: चतुष्कोटि
 paginate: 25
-url: https://adipedia.github.io/zzz
+url: https://adityaanand.com
 
 
 # Optional settings
 
 about_enabled: false # Change to true if you wish to show an icon in the navigation that redirects to the about page
-baseurl: /zzz
+baseurl:
 discus_identifier: # Add your Disqus identifier
-ga_analytics: # Add your GA Tracking Id
+ga_analytics: UA-2525332-1
 local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
 scrollappear_enabled: true # Change to false to disable
 social:
   dribbble: # Add your Dribbble handle
-  facebook: # Add your Facebook handle
+  facebook: #
   flickr: # Add your Flickr handle
-  github: # Add your GitHub handle
-  linkedin: # Add your LinkedIn handle
-  twitter: # Add your Twitter handle
-  email: # Add your Email address
+  github: #
+  linkedin: https://www.linkedin.com/in/aditya-anand-ab870210/
+  twitter: http://twitter.com/adipedia
+  email: mail@adityaanand.com
   bitcoin: # Add your Bitcoin link or address
   ethereum: # Add your Ethereum link or address
   gitlab: # Add your GitLab handle
@@ -32,7 +32,7 @@ social:
   tumblr: # Add your Tumblr handle
   bitbucket: # Add your Bitbucket handle
   docker: # Add your Docker Hub handle
-  instagram: # Add your Instagram handle
+  instagram: https://www.instagram.com/adipedia/
   keybase: # Add your Keybase handle
   medium: # Add your Medium handle
   spotify: # Add your Spotify handle
