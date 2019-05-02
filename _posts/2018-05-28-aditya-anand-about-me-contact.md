@@ -7,15 +7,14 @@ seotitle: "Introduction - Aditya Anand"
 
 ## Chatuskoti
 
-We once believed that the earth is flat. Our beliefs are our truths. Our truths are our beliefs. 
+Buddhist philosophy has a very nuanced view of the ‘Truth’. One such idea is a principle called Chatuskoti. Chatuskoti insists that reasoning and logic go beyond true or false. Chatuskoti embraces the contradiction and the unknown.
 
-‘Chatuskoti’ is an ancient buddhist concept. It describes the nature of truth. Statements can be: a) True b) False c) Neither true nor false d) Both true and false. A four-cornered truth. 
+‘Truth’ is also a fluid concept. Everyone once believed that the earth was flat. Doctors used to endorse cigarettes. I was taught that Pluto is a planet. As we observe the world more closely many old truths become mistaken beliefs.
 
-A belief that ‘truth’ is neither universal nor absolute is powerful. It promotes humility and curiosity.
+The blog title - Chatuskoti - is a personal reminder to remember this nature of truth. Its contradictions and its impermanence; and that we must not forget to challenge our beliefs. I do this in the hope that a more curious, humble and observing mind is better suited to learn about the nature of the self and the world.
 
-We once believed that the earth is the center of the universe. Imagine if we stopped questioning what is ‘true’. It is this extraordinary quest for truth, this curiosity, that pushes the individual and the society forward.
+This blog is a diary of my observations and beliefs. To reflect on my experiences and to connect the dots. To form new beliefs and to seek the truth.
 
-This blog documents my journey. To reflect and to connect the dots. To seek the truth.
 
 ## About Me
 
