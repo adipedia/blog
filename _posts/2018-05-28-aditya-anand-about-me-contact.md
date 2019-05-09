@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction"
-description: "My name is Aditya Anand and this blog is a diary of my observations and beliefs"
+description: "My name is Aditya Anand and this blog is a diary of my observations and beliefs."
 seotitle: "Introduction - Aditya Anand"
 ---
 
