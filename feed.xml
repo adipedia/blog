@@ -1,20 +1,26 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>चतुष्कोटि</title>
+    <description></description>
+    <link>https://adityaanand.com</link>
+    <atom:link href="https://adityaanand.com/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Introduction</title>
+        <description>My name is Aditya Anand and this blog is a diary of my observations and beliefs.</description>
+        <pubDate>Mon, 28 May 2018 00:00:00 +0530</pubDate>
+        <link>https://adityaanand.com/posts/aditya-anand-about-me-contact</link>
+        <guid isPermaLink="true">https://adityaanand.com/posts/aditya-anand-about-me-contact</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Remembering my first few posts</title>
+        <description>I first started blogging in 2010. It shaped me in ways I couldn't have predicted.</description>
+        <pubDate>Sun, 27 May 2018 00:00:00 +0530</pubDate>
+        <link>https://adityaanand.com/posts/remembering-previous-experience</link>
+        <guid isPermaLink="true">https://adityaanand.com/posts/remembering-previous-experience</guid>
+      </item>
+    
   </channel>
 </rss>
